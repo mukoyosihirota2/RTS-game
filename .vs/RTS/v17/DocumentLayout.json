@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\RTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D973CBAE-AF5C-67C8-9EC3-328FB0F61F9B}|Assembly-CSharp.csproj|c:\\users\\user\\rts\\assets\\unitselectionandmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D973CBAE-AF5C-67C8-9EC3-328FB0F61F9B}|Assembly-CSharp.csproj|solutionrelative:assets\\unitselectionandmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D973CBAE-AF5C-67C8-9EC3-328FB0F61F9B}|Assembly-CSharp.csproj|C:\\Users\\User\\RTS\\assets\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D973CBAE-AF5C-67C8-9EC3-328FB0F61F9B}|Assembly-CSharp.csproj|solutionrelative:assets\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\RTS\\Assets\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SelectionManager.cs",
+              "ToolTip": "C:\\Users\\User\\RTS\\Assets\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\SelectionManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:39:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitSelectionAndMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\RTS\\Assets\\UnitSelectionAndMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\UnitSelectionAndMovement.cs",
+              "ToolTip": "C:\\Users\\User\\RTS\\Assets\\UnitSelectionAndMovement.cs",
+              "RelativeToolTip": "Assets\\UnitSelectionAndMovement.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:38:11.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
